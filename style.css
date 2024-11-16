@@ -1,0 +1,314 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.btn{
+    background: transparent;
+    border: 1px solid hsla(0,0%,100%,.5);
+    width: 40px;
+    height: 29;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    line-height: 22px;
+    font-size: 16px;
+    font-weight: 500px;
+    padding: 5px;
+    margin-top: 5px;
+    
+}
+.dropdown-toggle{
+    border: none;
+    background: transparent;
+    color: #fff;
+    margin-top: 10px;
+    
+} 
+.items {
+    cursor: pointer;
+    
+   color: white;
+   margin: 20px;
+}
+.items:hover{
+    color: yellow;
+}
+.btn-register{
+    border-radius: 40px;
+    padding: 9px 25px;
+    margin-top: 8px;
+    color: #fff;
+    background: transparent;
+    border-color: #fff;
+}
+.btn-register:hover{
+    color: yellow;
+}
+ .box{
+    border: solid 3px red;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 40px;
+  margin-right: 15px;
+  
+   
+
+}
+.banner-img{
+    padding: 8px;
+    margin-top: 120px;
+   
+    
+
+}
+.p1{
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    line-height: 30px;
+     margin-top: 30px; 
+     margin-left: 40px;
+     margin-right: 40px;
+   
+}
+.p2{
+    color: #000;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 16px;
+      margin-bottom: 30px;
+       margin-top: 30px; 
+       margin-left: 40px;
+       margin-right: 40px;
+}
+ .para{
+    margin-bottom: 45px; font-size: 30px; font-weight: 700;
+        line-height: 35px;
+        color: #000;
+        margin-top: 180px; 
+        margin-left: 40px;
+        margin-right: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+} 
+.btn-view{
+    border-radius: 20px;
+    padding: 9px 25px;
+    margin-top: 1px;
+    border-color: #fff;
+    
+    color: #fff;
+    background: #fcbf02;
+    
+
+}
+ .cards{
+    margin-left: 60px;
+     margin-bottom: 30px;
+      max-width: 980px;
+max-height: 450px;    
+       
+      
+} 
+.card-body{
+    padding: 30px 25px;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 0
+    
+}
+.card-footer{
+    color: #2f4b6e;
+    font-size: 12px;
+    padding: 10px 45px 20px;
+    text-decoration: none;  
+}
+.btn-img{
+   width: 200px;
+    height: 85px;
+}
+.style1{
+  font-weight: 700;
+   font-size: 32px;
+   color: #007c7c;
+   margin-bottom: 20px !important;margin-left: 20px;
+   margin-top: 20px;
+   
+}
+.style2{
+    font-weight: 700;
+  font-size: 32px;
+  color: #007c7c;
+  margin-bottom: 20px !important;margin-right: 20px;margin-top: 20px;
+}
+.s1{
+    margin-left: 20px; 
+    margin-bottom: 20px;
+}
+.s2{
+    margin-right: 20px; 
+     margin-bottom: 20px;
+}
+.but{
+     background-color: #026464;
+     color: beige; 
+     width: 200px; 
+     padding: 6px; 
+     height: 40px; 
+     margin-top: 10px;
+     border-radius: 26px;
+     margin-left: 20px;
+}
+ .img1{
+    margin-left:400px; 
+    margin-bottom: 10px;
+} 
+.img2{
+     margin-top: 60px;
+}
+.img3{
+    margin-left:50px;
+     margin-top: 60px;
+      width: 550px;
+}
+.img4{
+    margin-top: 30px; 
+    margin-bottom: 30px;
+     margin-left: 20px;
+}
+.parag{
+    font-size: 16px;
+    color: #0e1229;
+    font-weight: 400;
+    line-height: 1.5;
+    opacity: .7;
+    letter-spacing: .5px;
+} 
+
+
+.cyan-color{
+    background-color: #017e7e;
+}
+
+.light-cyan{
+    background-color: #edffff;
+}
+
+.cynan-lighter{
+    background-color: #007c7c;
+    width: 100%;
+}
+ 
+.cynan-lighter-font{
+    color: #007c7c;
+}
+
+.slot-booking-btn{
+    background-color: #007c7c;
+    color: #edffff;
+    border: none;
+    
+}
+
+.footer-titles{
+    font-size: 15px;
+    color: #99d9d9;
+    text-decoration: underline;
+    
+}
+
+
+
+.footer-content-list li {
+    color: white;
+    list-style: none;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+.footer-content-list li a{
+    color: white;
+    text-decoration: none;
+    
+}
+.footer-content-list li a:hover{
+    text-decoration: underline;
+    
+}
+
+.terms-policy-link a{
+    text-decoration: none;
+}
+
+ .download-btn{
+    background-color: transparent;
+    color: #007c7c;
+    border: 2px solid #007c7c;
+    text-decoration: none;
+    border-radius: 22px;
+    padding: 12px 47px 12px 47px;
+    font-weight: 600;
+} 
+
+
+.partner-view-btn{
+    background-color: #007c7c;
+    color: #f8f9fa;
+    border-radius: 22px;
+    text-decoration: none;
+    padding: 13px 55px 13px 55px;
+    
+}
+
+.partner-register-btn{
+    background-color: transparent;
+    color: #007c7c;
+    border: 2px solid #007c7c;
+    text-decoration: none;
+    border-radius: 22px;
+    padding: 13px 30px 13px 30px;
+    font-weight: 600;
+}
+.vaccination-dashboard-btn{
+    color: #007c7c; 
+    border: 2px solid #007c7c;
+    background-color: transparent;
+    border-radius: 20px;
+    text-decoration: none;
+    margin: 20px 30px 20px 30px;
+    padding: 10px 30px 10px 30px;
+    font-weight: 600;
+}
+ .step1{
+    /* width: 38%;  */
+   border: 2px solid #007c7c;
+   margin-right: 300px;
+   
+}
+.step2{
+    /* width: 13%; */
+    border: 2px solid #007c7c;
+    margin-left: -40px;
+   
+}
+.step3{
+    /* width: 38%; */
+    border: 2px solid  #007c7c;
+    margin-left: 250px;
+    
+}
+.steps {
+    position: absolute;
+    left: 230px;
+   
+    top: 105px;
+
+}
